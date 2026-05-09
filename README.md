@@ -1,6 +1,4 @@
-Here is a template for a README file for a simple PyTorch-based text summarizer. I've designed this assuming you are using a straightforward approach, such as leveraging PyTorch alongside the Hugging Face `transformers` library (like a small T5 or BART model), which is the standard way to keep the code simple and effective.
 
----
 
 # 📝 Simple PyTorch Text Summarizer
 
